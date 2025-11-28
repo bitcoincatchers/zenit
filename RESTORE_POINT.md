@@ -67,6 +67,12 @@ npx wrangler pages deploy dist --project-name acro-zenith
 ### 📦 GitHub Repository
 https://github.com/bitcoincatchers/zenit
 
+### 💾 Full Backup Download
+**Direct Download**: https://www.genspark.ai/api/files/s/KsPhclM5
+- File: `acro-zenith-stable-v1.0.tar.gz`
+- Size: 111 KB
+- Contains: Complete project with git history
+
 ### 🔑 Key Files
 - `src/index.tsx` - Backend with correct CSS
 - `public/static/app.js` - Frontend with all 60+92 exercises
