@@ -4,7 +4,8 @@
 Professional acrobatic and calisthenics training platform with comprehensive exercise libraries and structured training programs.
 
 ## Live URLs
-- **Production**: https://c615c89d.acro-zenith.pages.dev
+- **Production**: https://b7bfd56a.acro-zenith.pages.dev
+- **Original**: https://f7a123b9.acro-zenith.pages.dev (working reference)
 - **GitHub**: https://github.com/bitcoincatchers/zenit
 
 ## Features
