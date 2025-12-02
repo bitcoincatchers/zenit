@@ -5,9 +5,9 @@ const API_BASE = window.location.origin;
 // HARDCODED DATA - All Exercises and Programs
 // ============================================
 
-// 60 Main Exercises (46 original + 14 new)
+// 61 Main Exercises (46 original + 15 new)
 const HARDCODED_EXERCISES = [
-  // NEW EXERCISES (Most Recent - 14 exercises)
+  // NEW EXERCISES (Most Recent - 15 exercises)
   { id: 'ex47', name: 'andrew kip up correction', video_url: 'https://youtu.be/5XuIYRf1g3E', category: 'Acrobatics', difficulty: 'Advanced', is_new: true, is_horizontal: true },
   { id: 'ex48', name: 'correction flow', video_url: 'https://youtu.be/zlZf0hC9Zwo', category: 'Flow', difficulty: 'Intermediate', is_new: true, is_horizontal: true },
   { id: 'ex49', name: '180 dynamic jumps', video_url: 'https://youtube.com/shorts/hxINEltjIBs', category: 'Macaco', difficulty: 'Advanced', is_new: true },
@@ -22,6 +22,7 @@ const HARDCODED_EXERCISES = [
   { id: 'ex58', name: 'HANDSTAND PROGRESSION', video_url: 'https://youtube.com/shorts/Xh1muXzGN4A', category: 'Handstands', difficulty: 'Beginner', is_new: true },
   { id: 'ex59', name: 'HANDSTAND FEEDBACK', video_url: 'https://youtube.com/shorts/M_EPDHPBp18', category: 'Handstands', difficulty: 'Intermediate', is_new: true },
   { id: 'ex60', name: 'BACKROLL ELBOWS', video_url: 'https://youtube.com/shorts/hiUk1AXtl_M', category: 'Acrobatics', difficulty: 'Advanced', is_new: true },
+  { id: 'ex61', name: 'andrew reeview', video_url: 'https://youtu.be/05E9ep4zfCc', category: 'Acrobatics', difficulty: 'Intermediate', is_new: true, is_horizontal: true },
   
   // ORIGINAL EXERCISES (46 exercises)
   { id: 'ex1', name: 'B Kick Progression', video_url: 'https://youtube.com/shorts/Rp74AUkzBJg', category: 'Acrobatics', difficulty: 'Intermediate' },
@@ -72,7 +73,7 @@ const HARDCODED_EXERCISES = [
   { id: 'ex46', name: 'Wall cartwheel', video_url: 'https://youtube.com/shorts/Wie0c1Uwc5g', category: 'Cartwheels', difficulty: 'Intermediate' }
 ];
 
-// 92 Conditioning Exercises (30 ABS + 29 Push Ups + 25 Squats + 8 New)
+// 93 Conditioning Exercises (30 ABS + 29 Push Ups + 25 Squats + 9 New)
 const HARDCODED_CONDITIONING = [
   // ABS (30 exercises)
   { id: 'abs1', name: 'WALK TO TUCK', video_url: 'https://youtube.com/shorts/M_rG4Ovwkbc', category: 'ABS' },
@@ -164,7 +165,7 @@ const HARDCODED_CONDITIONING = [
   { id: 'squat24', name: 'Knee Taps on Wall', video_url: 'https://youtube.com/shorts/KzRNFBAWlHg', category: 'Squats' },
   { id: 'squat25', name: 'Deep squat Jump', video_url: 'https://youtube.com/shorts/4Sih1tFa5xA', category: 'Squats' },
   
-  // NEW ADDITIONS (8 exercises)
+  // NEW ADDITIONS (9 exercises)
   { id: 'new1', name: 'knee pike push ups', video_url: 'https://youtube.com/shorts/34G2k_Ch_FQ', category: 'Push Ups' },
   { id: 'new2', name: 'Macaco Jump', video_url: 'https://youtube.com/shorts/VJZDUTs1jdw', category: 'ABS' },
   { id: 'new3', name: 'reversed push ups', video_url: 'https://youtube.com/shorts/ZG1MwCv7eKo', category: 'Push Ups' },
@@ -172,7 +173,8 @@ const HARDCODED_CONDITIONING = [
   { id: 'new5', name: 'November 25, 2025', video_url: 'https://youtube.com/shorts/J-nLNQSRIMU', category: 'ABS' },
   { id: 'new6', name: 'HANDSTAND PROGRESSION', video_url: 'https://youtube.com/shorts/Xh1muXzGN4A', category: 'Push Ups' },
   { id: 'new7', name: 'HANDSTAND FEEDBACK', video_url: 'https://youtube.com/shorts/M_EPDHPBp18', category: 'ABS' },
-  { id: 'new8', name: 'BACKROLL ELBOWS', video_url: 'https://youtube.com/shorts/hiUk1AXtl_M', category: 'ABS' }
+  { id: 'new8', name: 'BACKROLL ELBOWS', video_url: 'https://youtube.com/shorts/hiUk1AXtl_M', category: 'ABS' },
+  { id: 'new9', name: 'andrew reeview', video_url: 'https://youtu.be/05E9ep4zfCc', category: 'ABS' }
 ];
 
 // 5-Day Training Program with all exercises
