@@ -4,22 +4,22 @@
 Professional acrobatic and calisthenics training platform with comprehensive exercise libraries and structured training programs.
 
 ## Live URLs
-- **Production**: https://7024c4db.acro-zenith.pages.dev
+- **Production**: https://5eeeb4b0.acro-zenith.pages.dev
 - **GitHub**: https://github.com/bitcoincatchers/zenit
 
 ## Features
 ### ✅ Completed
-- **Exercise Library** (61 exercises)
-  - 15 new exercises added (including andrew reeview, HANDSTAND PROGRESSION, HANDSTAND FEEDBACK, BACKROLL ELBOWS)
+- **Exercise Library** (67 exercises)
+  - 21 new exercises added (including gumbi, front roundoff, Back roll side, cart well bent, flow variations, feedack andrew dec 4th)
   - Category filters: Acrobatics, Handstands, Flow, Macaco, Core, Legs, L-sit, Flexibility, Cartwheels
   - "Most Recent" filter for new additions
   - Difficulty levels: Beginner, Intermediate, Advanced
   
-- **Conditioning Library** (93 exercises)
+- **Conditioning Library** (99 exercises)
   - 30 ABS exercises
   - 29 Push Ups exercises
   - 25 Squats exercises
-  - 9 new exercises added (including andrew reeview, HANDSTAND PROGRESSION, HANDSTAND FEEDBACK, BACKROLL ELBOWS)
+  - 15 new exercises added (including gumbi, front roundoff, Back roll side, cart well bent, flow variations, feedack andrew dec 4th)
   - Category filters
 
 - **5-Day Training Program**
